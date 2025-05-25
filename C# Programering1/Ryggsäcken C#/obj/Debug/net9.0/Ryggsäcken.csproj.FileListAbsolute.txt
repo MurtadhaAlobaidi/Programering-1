@@ -1,0 +1,15 @@
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/bin/Debug/net9.0/Ryggsäcken
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/bin/Debug/net9.0/Ryggsäcken.deps.json
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/bin/Debug/net9.0/Ryggsäcken.runtimeconfig.json
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/bin/Debug/net9.0/Ryggsäcken.dll
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/bin/Debug/net9.0/Ryggsäcken.pdb
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/Ryggsäcken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/Ryggsäcken.AssemblyInfoInputs.cache
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/Ryggsäcken.AssemblyInfo.cs
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/Ryggsäcken.csproj.CoreCompileInputs.cache
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/Ryggsäcken.sourcelink.json
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/Ryggsäcken.dll
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/refint/Ryggsäcken.dll
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/Ryggsäcken.pdb
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/Ryggsäcken.genruntimeconfig.cache
+/Users/murtadha/Documents/GitHub/Programering-1/C# Programering1/Ryggsäcken C#/obj/Debug/net9.0/ref/Ryggsäcken.dll

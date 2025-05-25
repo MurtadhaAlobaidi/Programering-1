@@ -9,7 +9,7 @@ namespace Ryggsäcken
             // Title för min arbeta för övning 2
             Console.Title = "Murtadha Alobaidi NTI skolan / Programering 1/ Övning 2";
 
-            //för att upprepa menyen 
+            //för att upprepa menyen ı
             bool Huvudmeny = true;
             string valEtt = "";
             while (Huvudmeny)
